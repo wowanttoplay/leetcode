@@ -21,12 +21,18 @@
     <ClCompile Include="subject29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="subject309.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tool.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="subject29.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="subject309.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -5,12 +5,13 @@
 #include "tool.h"
 
 #include "subject29.h"
+#include "subject309.h"
 
 int main()
 {
-	subject29 p;
-	p.divide(-2147483648, -1);
-
+	subject309 p;
+	vector<int>prices{ 2,1,4 };
+	cout << p.maxProfit(prices) << endl;
 }
 
 
