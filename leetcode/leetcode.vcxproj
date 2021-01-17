@@ -140,10 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="leetcode.cpp" />
+    <ClCompile Include="object97.cpp" />
+    <ClCompile Include="solution.cpp" />
     <ClCompile Include="subject29.cpp" />
     <ClCompile Include="subject309.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="object97.h" />
+    <ClInclude Include="solution.h" />
     <ClInclude Include="subject29.h" />
     <ClInclude Include="subject309.h" />
     <ClInclude Include="tool.h" />

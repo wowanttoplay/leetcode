@@ -1,0 +1,8 @@
+﻿  leetcode.cpp
+C:\Users\94842\source\repos\leetcode\leetcode\subject309.h(30,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\94842\source\repos\leetcode\leetcode\subject309.h(32,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\94842\source\repos\leetcode\leetcode\subject309.h(59,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\94842\source\repos\leetcode\leetcode\subject309.h(61,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\94842\source\repos\leetcode\leetcode\leetcode.cpp(24,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\94842\source\repos\leetcode\leetcode\leetcode.cpp(24,11): message : 请考虑在格式字符串中使用“%zd”
+  leetcode.vcxproj -> C:\Users\94842\source\repos\leetcode\leetcode\x64\Debug\leetcode.exe

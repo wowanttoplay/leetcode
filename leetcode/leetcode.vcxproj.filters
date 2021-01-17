@@ -24,6 +24,12 @@
     <ClCompile Include="subject309.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="object97.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tool.h">
@@ -33,6 +39,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="subject309.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="object97.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

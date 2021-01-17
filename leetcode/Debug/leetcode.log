@@ -1,5 +1,5 @@
 ﻿  leetcode.cpp
-  subject29.cpp
+C:\Users\94842\source\repos\leetcode\leetcode\leetcode.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
   subject309.cpp
   正在生成代码...
   leetcode.vcxproj -> C:\Users\94842\source\repos\leetcode\leetcode\Debug\leetcode.exe
